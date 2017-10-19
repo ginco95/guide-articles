@@ -4,13 +4,5 @@ title: Yarn
 
 ## Yarn
 
-This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Tools/Yarn/index.md).
-
-[This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
-
+Yarn is a long continuous length of interlocked fibres, suitable for use in the production of textiles, sewing, crocheting, knitting, weaving, embroidery, and ropemaking. Thread is a type of yarn intended for sewing by hand or machine. Modern manufactured sewing threads may be finished with wax or other lubricants to withstand the stresses involved in sewing. Embroidery threads are yarns specifically designed for hand or machine embroidery.
 
